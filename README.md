@@ -18,14 +18,14 @@ This website include:
 
 - Comparisons page:
 
-<img src="Images/comparison-sm.png" width="700" height="500">
+<img src="Images/comparison-lg.png" width="700" height="700">
 
 - Data page:
 
-<img src="Images/data-sm.png" width="700" height="500">
+<img src="Images/data-sm.png" width="700" height="700">
 
 - Visualization pages:
 
-<img src="Images/visualize-sm.png" width="700" height="500">
+<img src="Images/visualize-lg.png" width="700" height="500">
 
 You can get more information inside the "Code" folder and know how it could be done
